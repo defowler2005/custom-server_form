@@ -48,7 +48,7 @@
         ],
         "$custom_background": "server_form.custom_background",
         "$title_offset": [
-            -168,
+            -135,
             12
         ],
         "size": [
@@ -82,7 +82,7 @@
                             "main_label": {
                                 "type": "label",
                                 "offset": [
-                                    -6,
+                                    -5,
                                     17
                                 ],
                                 "color": "$main_header_text_color",
@@ -118,7 +118,7 @@
                     ],
                     "$scrolling_pane_offset": [
                         2,
-                        0
+                        5
                     ],
                     "$scroll_bar_right_padding_size": [
                         0,
@@ -303,8 +303,8 @@
     "custom_form@common_dialogs.main_panel_no_buttons": {
         "$title_panel": "common_dialogs.standard_title_label",
         "$title_offset": [
-            -166,
-            10
+            -183,
+            4
         ],
         "size": [
             425,
