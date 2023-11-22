@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Customized server_form",
+        "name": "Customized server_form",
+        "uuid": "5c82b54d-f7ea-470d-8051-47afb2439acd",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            20,
+            41
+        ]
+    },
+    "modules": [
+        {
+            "description": "Customized server_form",
+            "type": "resources",
+            "uuid": "72657478-f847-4cf8-9cae-4a41899e5450",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
