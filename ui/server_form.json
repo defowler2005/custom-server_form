@@ -16,6 +16,12 @@
         "anchor_from": "center",
         "anchor_to": "center"
     },
+    "server_form_modal_background": {
+        "type": "image",
+        "texture": "textures/ui/server_form_modal_background.png",
+        "anchor_from": "center",
+        "anchor_to": "center"
+    },
     "main_screen_content": {
         "type": "panel",
         "size": [
@@ -297,14 +303,14 @@
     "custom_form@common_dialogs.main_panel_no_buttons": {
         "$title_panel": "common_dialogs.standard_title_label",
         "$title_offset": [
-            -168,
-            12
+            -166,
+            10
         ],
         "size": [
             425,
             290
         ],
-        "$custom_background": "server_form.custom_background",
+        "$custom_background": "server_form.server_form_modal_background",
         "$text_name": "#title_text",
         "$title_text_binding_type": "none",
         "$child_control": "server_form.custom_form_panel",
@@ -386,6 +392,8 @@
                     "$pressed_button_name": "button.submit_custom_form",
                     "anchor_from": "top_left",
                     "anchor_to": "top_left",
+                    "$default_button_texture":"textures/ui/server_form_submit_button.png",
+                    "$hover_button_texture":"textures/ui/server_form_submit_button_hover.png",
                     "size": [
                         "100%",
                         32
