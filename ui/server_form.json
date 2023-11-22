@@ -42,7 +42,7 @@
         ],
         "$custom_background": "server_form.custom_background",
         "$title_offset": [
-            0,
+            -168,
             12
         ],
         "size": [
@@ -76,7 +76,7 @@
                             "main_label": {
                                 "type": "label",
                                 "offset": [
-                                    0,
+                                    -6,
                                     17
                                 ],
                                 "color": "$main_header_text_color",
