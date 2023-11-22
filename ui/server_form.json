@@ -99,16 +99,16 @@
                     "$show_background": false,
                     "size": [
                         "100%",
-                        "100%"
+                        "100% - 9px"
                     ],
                     "$scrolling_content": "server_form.long_form_scrolling_content",
                     "$scroll_size": [
                         5,
-                        "100% - 4px"
+                        "100% - 8px"
                     ],
                     "$scrolling_pane_size": [
-                        "100% - 4px",
-                        "100% - 2px"
+                        "100% - 8px",
+                        "100% - 9px"
                     ],
                     "$scrolling_pane_offset": [
                         2,
@@ -119,6 +119,7 @@
                         0
                     ]
                 }
+                
             }
         ]
     },
@@ -159,7 +160,7 @@
             "100%c"
         ],
         "offset": [
-            124,
+            126,
             2
         ],
         "grid_item_template": "server_form.dynamic_button",
@@ -181,8 +182,8 @@
     "dynamic_button": {
         "type": "stack_panel",
         "size": [
-            110,
-            110
+            107,
+            109
         ],
         "orientation": "horizontal",
         "controls": [
