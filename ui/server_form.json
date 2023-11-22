@@ -119,7 +119,6 @@
                         0
                     ]
                 }
-                
             }
         ]
     },
@@ -297,14 +296,15 @@
     },
     "custom_form@common_dialogs.main_panel_no_buttons": {
         "$title_panel": "common_dialogs.standard_title_label",
-        "$title_size": [
-            "100% - 14px",
-            0
+        "$title_offset": [
+            -168,
+            12
         ],
         "size": [
-            "100%",
-            "100%"
+            425,
+            290
         ],
+        "$custom_background": "server_form.custom_background",
         "$text_name": "#title_text",
         "$title_text_binding_type": "none",
         "$child_control": "server_form.custom_form_panel",
