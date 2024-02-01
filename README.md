@@ -4,11 +4,11 @@ Here is a custom server_form for Minecraft Bedrock.
 
 Here's what the ActionFormData() looks like:
 
-![custom_server_form_actionformdata](https://raw.githubusercontent.com/defowler2005/defowler2005/main/custom_server_form_actionformdata.png)
+![custom_server_form_actionformdata]()
 
 Here's what the ModalFormData() looks like:
 
-![custom_server_form_actionformdata](https://raw.githubusercontent.com/defowler2005/defowler2005/main/custom_server_form_modalformdata.png)
+![custom_server_form_actionformdata]()
 
 ## Usage
 
