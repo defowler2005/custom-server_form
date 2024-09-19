@@ -1,4 +1,4 @@
-# custom-server_formCustom server_form for Minecraft Bedrock.
+# custom server form for Minecraft Bedrock.
 
 Here's what the ActionFormData() looks like:
 
