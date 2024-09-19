@@ -2,11 +2,11 @@
 
 Here's what the ActionFormData() looks like:
 
-![custom_server_form_actionformdata](https://defowler.tech/custom_actionform_server_form.png)
+![custom_server_form_actionformdata](imgurl)
 
 Here's what the ModalFormData() looks like:
 
-![custom_server_form_actionformdata](https://defowler.tech/custom_modalform_server_form.png)
+![custom_server_form_actionformdata](imgurl)
 
 ## Usage
 
