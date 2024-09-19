@@ -397,7 +397,7 @@
                         "100%",
                         32
                     ],
-                    "$button_text": "gui.submit",
+                    "$button_text": "#submit_text",
                     "bindings": [
                         {
                             "binding_name": "#submit_button_visible",
